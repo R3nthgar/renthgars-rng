@@ -1,0 +1,24 @@
+{
+  "name": "renthgars-rng",
+  "version": "1.0.0",
+  "description": "A random number generator for my projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R3nthgar/renthgars-rng.git"
+  },
+  "keywords": [
+    "renthgar",
+    "random",
+    "rng"
+  ],
+  "author": "Renthgar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R3nthgar/renthgars-rng/issues"
+  },
+  "homepage": "https://github.com/R3nthgar/renthgars-rng#readme"
+}
